@@ -39,7 +39,7 @@ export default function CreateChat({ user }: { user: CustomUser }) {
       setLoading(true);
       const { data } = await axios.post(CHAT_GROUP, payload, {
         headers: {
-          Authorization: user.token,
+          Authorization: user.token
         },
       });
 
