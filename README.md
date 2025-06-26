@@ -19,12 +19,16 @@ Cloak-Room is an **Anonymous ChatRoom Generator** that enables **real-time**, **
 
 1. **Get Signed Up**
    Sign in with your Google account to begin.
+   ![Step 1](https://github.com/user-attachments/assets/e65df86c-a420-4550-aeb8-202d532a827e)
+
 
 2. **Create or Choose a Chat Room**
    Click on `"Create Chat"` or select from existing chat rooms.
+![Step 3](https://github.com/user-attachments/assets/b57154e3-a1e9-47de-bdca-f4575954e48f)
 
 3. **Share & Chat**
    Click the chat, copy the link, paste it into any browser, and start chatting anonymously.
+![Step 2](https://github.com/user-attachments/assets/a6eae40d-ca3d-4d24-b61e-23e59c2535c4)
 
 ---
 
@@ -35,7 +39,7 @@ Cloak-Room is an **Anonymous ChatRoom Generator** that enables **real-time**, **
 1. **Clone the repo & move into project folder**
 
    ```bash
-   git clone https://github.com/your-username/cloak-room.git
+   git clone https://github.com/madhuramkulshrestha123/cloak-room.git
    cd cloak-room/frontend
    ```
 
@@ -99,12 +103,6 @@ Cloak-Room is an **Anonymous ChatRoom Generator** that enables **real-time**, **
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
@@ -113,6 +111,16 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/your-profile) or open an issue.
+Feel free to reach out via 
+[LinkedIn](https://www.linkedin.com/in/madhuram-kulshrestha-24593a251/)
+[LinkedIn](https://www.linkedin.com/in/ojaswigahoi/) 
+
+or open an issue.
 
 ---
+## 🙌 Team
+
+This project is a team collaboration by:
+
+- **Madhuram Kulshrestha** — [GitHub](https://github.com/madhuramkulshrestha123) 
+- **Ojaswi Gahoi** — [GitHub](https://github.com/ojaswi2c9t)
