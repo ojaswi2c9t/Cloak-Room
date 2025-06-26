@@ -12,6 +12,7 @@ Cloak-Room is an **Anonymous ChatRoom Generator** that enables **real-time**, **
 * 🚀 Dockerized backend for containerized deployment
 * 🧠 Intelligent Room Management
 * 🎨 Clean UI with TailwindCSS
+* ⚿ Authentication using Google
 
 ---
 
@@ -19,15 +20,18 @@ Cloak-Room is an **Anonymous ChatRoom Generator** that enables **real-time**, **
 
 1. **Get Signed Up**
    Sign in with your Google account to begin.
+   
    ![Step 1](https://github.com/user-attachments/assets/e65df86c-a420-4550-aeb8-202d532a827e)
 
 
-2. **Create or Choose a Chat Room**
+3. **Create or Choose a Chat Room**
    Click on `"Create Chat"` or select from existing chat rooms.
+   
 ![Step 3](https://github.com/user-attachments/assets/b57154e3-a1e9-47de-bdca-f4575954e48f)
 
-3. **Share & Chat**
+5. **Share & Chat**
    Click the chat, copy the link, paste it into any browser, and start chatting anonymously.
+   
 ![Step 2](https://github.com/user-attachments/assets/a6eae40d-ca3d-4d24-b61e-23e59c2535c4)
 
 ---
