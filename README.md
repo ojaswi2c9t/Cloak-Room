@@ -116,8 +116,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📬 Contact
 
 Feel free to reach out via 
-[LinkedIn](https://www.linkedin.com/in/madhuram-kulshrestha-24593a251/)
-[LinkedIn](https://www.linkedin.com/in/ojaswigahoi/) 
+- [LinkedIn](https://www.linkedin.com/in/ojaswigahoi/) [Ojaswi Gahoi]
+- [LinkedIn](https://www.linkedin.com/in/madhuram-kulshrestha-24593a251/) [Madhuram Kulshrestha]
 
 or open an issue.
 
@@ -126,5 +126,5 @@ or open an issue.
 
 This project is a team collaboration by:
 
-- **Madhuram Kulshrestha** — [GitHub](https://github.com/madhuramkulshrestha123) 
 - **Ojaswi Gahoi** — [GitHub](https://github.com/ojaswi2c9t)
+- **Madhuram Kulshrestha** — [GitHub](https://github.com/madhuramkulshrestha123) 
